@@ -163,3 +163,5 @@ zz*
 
 data/sample_tokenized_sentences.csv
 data/padded_sample_tokenized_sentences.csv
+
+stats_workbooks/data/creditcard*
